@@ -1,17 +1,17 @@
 {
   "name": "proempresa-node",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "lib/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "test"
   },
   "repository": {
     "type": "git",
     "url": "git://github.com/enteil/Proempresa-node.git"
   },
   "author": "Leonardo Restrepo",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "request": "^2.88.0",
     "util": "^0.12.1"
